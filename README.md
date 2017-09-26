@@ -6,6 +6,6 @@ Here is another line.
 
 I'm adding lines to track different changes I make.
 
-#Here is a header
+# Here is a header
 
 Some information about the header would be here.
